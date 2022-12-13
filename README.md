@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jun (they/them)</h1>
 <h3 align="center">Full Stack Developer with experience in Social Sciences that recently transitioned to tech with the desire to work on exciting projects that make an impact on the local community.</h3>
+<h3 align="center">Full Stack Dev - ReactJS & Node | Backend Dev - Java & Hibernate | Pega System Architect</h3>
 
-- 🌱 I’m currently learning **Java for backend**
+- 🌱 I’m currently learning how to build applications with **Pega Platform**. Already got my System Architect certificate (CSA) and working towards the Senior System Architect certificate (CSSA).
 
 - 📫 How to reach me **jun279r@gmail.com**
 
-- 📄 Know about my experiences: [My CV](https://drive.google.com/file/d/1o0eCGREpBgIqzr8czpBgHd_rq3BFr5tg/view?usp=sharing)
+- 📄 Know about my experiences: [My CV](https://drive.google.com/file/d/1o0eCGREpBgIqzr8czpBgHd_rq3BFr5tg/view?usp=share_link)
 
 - ⚡ Fun fact **I love dogs and tea**
 
